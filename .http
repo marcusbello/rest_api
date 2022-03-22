@@ -1,0 +1,11 @@
+POST http://localhost:8080/post/78
+
+Content-Type: application/json
+
+{
+  "PostTitle": "This is post title",
+  "PostBody": "This is post content"
+}
+
+
+
